@@ -29,7 +29,7 @@
 
 
 <br><br> 
-### Perfil de modelagem 3d e Modding para jogos: <a margih="20" href="https://www.youtube.com/c/SrVertex" target="_blank"><imgwidth="50" src="https://github.com/LeonardoDecaris/LeonardoDecaris/blob/main/SrVertexVetorizado_achatado.png" target="_blank"></a>  @SrVertex 
+### Perfil de modelagem 3d e Modding para jogos: <a margih="20" href="https://www.youtube.com/c/SrVertex" target="_blank"><img width="50" src="https://github.com/LeonardoDecaris/LeonardoDecaris/blob/main/SrVertexVetorizado_achatado.png" target="_blank"></a>  @SrVertex 
 
 
 
