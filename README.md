@@ -29,6 +29,10 @@
 
 
 <br><br> 
+### Perfil de modelagem 3d e Modding para jogos: @SrVertex
+
+
+
 ### Conheça Meus Trabalhos Com Desenvolvimento 3d De Conteudo Para Jogos Nas Redes Sociais!
 
   ##
